@@ -58,7 +58,7 @@
 ```bash
 git clone https://github.com/GitFlaviobc/Push_Swap.git
 ```
-- to create the client and server
+- to create the push_swap
 ```bash
 make
 ```
@@ -74,7 +74,7 @@ make clean
 ```bash
 make fclean
 ```
- - to delete all files and recreate the client and server
+ - to delete all files and recreate the push_swap
 ```bash
 make re
 ```
