@@ -59,7 +59,7 @@
 ```bash
 git clone https://github.com/GitFlaviobc/Push_Swap.git
 ```
-- to create the push_swap
+- to create the push_swap (Inside Project folder)
 ```bash
 make
 ```
