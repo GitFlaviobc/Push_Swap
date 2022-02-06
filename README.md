@@ -47,7 +47,8 @@
 
 <a name="function"/> <h2> 📚 Functionality </h2> </a>
 
-⚠️🚧
+![Push Logic](https://github.com/GitFlaviobc/Push_Swap/blob/master/Images/Logic.JPG)
+![Push Test](https://github.com/GitFlaviobc/Push_Swap/blob/master/Images/PushSwap.gif)
 
 <p></p>
 <a href = "#content">📋</a>
